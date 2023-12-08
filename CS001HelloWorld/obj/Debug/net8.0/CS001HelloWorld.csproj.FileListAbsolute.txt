@@ -1,0 +1,15 @@
+E:\Learn\ASPNET\CS001HelloWorld\bin\Debug\net8.0\CS001HelloWorld.exe
+E:\Learn\ASPNET\CS001HelloWorld\bin\Debug\net8.0\CS001HelloWorld.deps.json
+E:\Learn\ASPNET\CS001HelloWorld\bin\Debug\net8.0\CS001HelloWorld.runtimeconfig.json
+E:\Learn\ASPNET\CS001HelloWorld\bin\Debug\net8.0\CS001HelloWorld.dll
+E:\Learn\ASPNET\CS001HelloWorld\bin\Debug\net8.0\CS001HelloWorld.pdb
+E:\Learn\ASPNET\CS001HelloWorld\obj\Debug\net8.0\CS001HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\ASPNET\CS001HelloWorld\obj\Debug\net8.0\CS001HelloWorld.AssemblyInfoInputs.cache
+E:\Learn\ASPNET\CS001HelloWorld\obj\Debug\net8.0\CS001HelloWorld.AssemblyInfo.cs
+E:\Learn\ASPNET\CS001HelloWorld\obj\Debug\net8.0\CS001HelloWorld.csproj.CoreCompileInputs.cache
+E:\Learn\ASPNET\CS001HelloWorld\obj\Debug\net8.0\CS001HelloWorld.sourcelink.json
+E:\Learn\ASPNET\CS001HelloWorld\obj\Debug\net8.0\CS001HelloWorld.dll
+E:\Learn\ASPNET\CS001HelloWorld\obj\Debug\net8.0\refint\CS001HelloWorld.dll
+E:\Learn\ASPNET\CS001HelloWorld\obj\Debug\net8.0\CS001HelloWorld.pdb
+E:\Learn\ASPNET\CS001HelloWorld\obj\Debug\net8.0\CS001HelloWorld.genruntimeconfig.cache
+E:\Learn\ASPNET\CS001HelloWorld\obj\Debug\net8.0\ref\CS001HelloWorld.dll
