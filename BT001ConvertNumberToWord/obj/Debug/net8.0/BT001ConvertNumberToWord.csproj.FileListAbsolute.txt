@@ -1,0 +1,15 @@
+E:\Learn\ASPNET\BT001ConvertNumberToWord\obj\Debug\net8.0\BT001ConvertNumberToWord.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\ASPNET\BT001ConvertNumberToWord\obj\Debug\net8.0\BT001ConvertNumberToWord.AssemblyInfoInputs.cache
+E:\Learn\ASPNET\BT001ConvertNumberToWord\obj\Debug\net8.0\BT001ConvertNumberToWord.AssemblyInfo.cs
+E:\Learn\ASPNET\BT001ConvertNumberToWord\obj\Debug\net8.0\BT001ConvertNumberToWord.csproj.CoreCompileInputs.cache
+E:\Learn\ASPNET\BT001ConvertNumberToWord\obj\Debug\net8.0\BT001ConvertNumberToWord.sourcelink.json
+E:\Learn\ASPNET\BT001ConvertNumberToWord\bin\Debug\net8.0\BT001ConvertNumberToWord.exe
+E:\Learn\ASPNET\BT001ConvertNumberToWord\bin\Debug\net8.0\BT001ConvertNumberToWord.deps.json
+E:\Learn\ASPNET\BT001ConvertNumberToWord\bin\Debug\net8.0\BT001ConvertNumberToWord.runtimeconfig.json
+E:\Learn\ASPNET\BT001ConvertNumberToWord\bin\Debug\net8.0\BT001ConvertNumberToWord.dll
+E:\Learn\ASPNET\BT001ConvertNumberToWord\bin\Debug\net8.0\BT001ConvertNumberToWord.pdb
+E:\Learn\ASPNET\BT001ConvertNumberToWord\obj\Debug\net8.0\BT001ConvertNumberToWord.dll
+E:\Learn\ASPNET\BT001ConvertNumberToWord\obj\Debug\net8.0\refint\BT001ConvertNumberToWord.dll
+E:\Learn\ASPNET\BT001ConvertNumberToWord\obj\Debug\net8.0\BT001ConvertNumberToWord.pdb
+E:\Learn\ASPNET\BT001ConvertNumberToWord\obj\Debug\net8.0\BT001ConvertNumberToWord.genruntimeconfig.cache
+E:\Learn\ASPNET\BT001ConvertNumberToWord\obj\Debug\net8.0\ref\BT001ConvertNumberToWord.dll
