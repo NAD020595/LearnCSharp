@@ -1,0 +1,15 @@
+E:\Learn\ASPNET\CS002VariablesConstantsIO\bin\Debug\net8.0\CS002VariablesConstantsIO.exe
+E:\Learn\ASPNET\CS002VariablesConstantsIO\bin\Debug\net8.0\CS002VariablesConstantsIO.deps.json
+E:\Learn\ASPNET\CS002VariablesConstantsIO\bin\Debug\net8.0\CS002VariablesConstantsIO.runtimeconfig.json
+E:\Learn\ASPNET\CS002VariablesConstantsIO\bin\Debug\net8.0\CS002VariablesConstantsIO.dll
+E:\Learn\ASPNET\CS002VariablesConstantsIO\bin\Debug\net8.0\CS002VariablesConstantsIO.pdb
+E:\Learn\ASPNET\CS002VariablesConstantsIO\obj\Debug\net8.0\CS002VariablesConstantsIO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\ASPNET\CS002VariablesConstantsIO\obj\Debug\net8.0\CS002VariablesConstantsIO.AssemblyInfoInputs.cache
+E:\Learn\ASPNET\CS002VariablesConstantsIO\obj\Debug\net8.0\CS002VariablesConstantsIO.AssemblyInfo.cs
+E:\Learn\ASPNET\CS002VariablesConstantsIO\obj\Debug\net8.0\CS002VariablesConstantsIO.csproj.CoreCompileInputs.cache
+E:\Learn\ASPNET\CS002VariablesConstantsIO\obj\Debug\net8.0\CS002VariablesConstantsIO.sourcelink.json
+E:\Learn\ASPNET\CS002VariablesConstantsIO\obj\Debug\net8.0\CS002VariablesConstantsIO.dll
+E:\Learn\ASPNET\CS002VariablesConstantsIO\obj\Debug\net8.0\refint\CS002VariablesConstantsIO.dll
+E:\Learn\ASPNET\CS002VariablesConstantsIO\obj\Debug\net8.0\CS002VariablesConstantsIO.pdb
+E:\Learn\ASPNET\CS002VariablesConstantsIO\obj\Debug\net8.0\CS002VariablesConstantsIO.genruntimeconfig.cache
+E:\Learn\ASPNET\CS002VariablesConstantsIO\obj\Debug\net8.0\ref\CS002VariablesConstantsIO.dll
