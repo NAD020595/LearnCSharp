@@ -1,0 +1,15 @@
+E:\Learn\ASPNET\CS007Method\bin\Debug\net8.0\CS007Method.exe
+E:\Learn\ASPNET\CS007Method\bin\Debug\net8.0\CS007Method.deps.json
+E:\Learn\ASPNET\CS007Method\bin\Debug\net8.0\CS007Method.runtimeconfig.json
+E:\Learn\ASPNET\CS007Method\bin\Debug\net8.0\CS007Method.dll
+E:\Learn\ASPNET\CS007Method\bin\Debug\net8.0\CS007Method.pdb
+E:\Learn\ASPNET\CS007Method\obj\Debug\net8.0\CS007Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\ASPNET\CS007Method\obj\Debug\net8.0\CS007Method.AssemblyInfoInputs.cache
+E:\Learn\ASPNET\CS007Method\obj\Debug\net8.0\CS007Method.AssemblyInfo.cs
+E:\Learn\ASPNET\CS007Method\obj\Debug\net8.0\CS007Method.csproj.CoreCompileInputs.cache
+E:\Learn\ASPNET\CS007Method\obj\Debug\net8.0\CS007Method.sourcelink.json
+E:\Learn\ASPNET\CS007Method\obj\Debug\net8.0\CS007Method.dll
+E:\Learn\ASPNET\CS007Method\obj\Debug\net8.0\refint\CS007Method.dll
+E:\Learn\ASPNET\CS007Method\obj\Debug\net8.0\CS007Method.pdb
+E:\Learn\ASPNET\CS007Method\obj\Debug\net8.0\CS007Method.genruntimeconfig.cache
+E:\Learn\ASPNET\CS007Method\obj\Debug\net8.0\ref\CS007Method.dll
